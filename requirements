@@ -1,0 +1,6 @@
+pip         10.0.1
+PyQt5       5.13.1
+PyQt5-sip   12.7.0
+PyQt5-stubs 5.13.1.3
+setuptools  39.1.0
+stubs       1.0.0
